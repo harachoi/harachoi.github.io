@@ -1,9 +1,6 @@
 ---
 title: Cook-IO
 excerpt: People can share their special recipes and share their lives!
-header:
-  image: /assets/images/board.jpg
-  teaser: /assets/images/board.jpg
 sidebar:
   - title: "담당 역할"
     text: "Front-End & Back-End"
