@@ -1,14 +1,13 @@
 ---
 title: Cook-IO
 excerpt: People can share their special recipes and share their lives!
+header:
+  image: /assets/images/board.jpg
+  teaser: /assets/images/board.jpg
 sidebar:
   - title: "담당 역할"
     text: "Front-End & Back-End"
   - title: "4인 팀 프로젝트"
-gallery:
-  - url: /assets/images/Portfolio/cookio-signin.jpg
-    image_path: assets/images/Portfolio/cookio-signin.jpg
-    alt: "placeholder image 1"
 layout: archive
 classes: layout--home
 ---
@@ -35,17 +34,21 @@ Front-end Framework: React Native
 
 ## Design Outline
 
-<img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png" width="100%" align="center">
+<!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png" width="100%" align="center"> -->
+
+[[!image]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png)
 
 ## Design Details
 
-<img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png" width="100%" align="center">
+<!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png" width="100%" align="center"> -->
 
-## 화면 구성	
+[[!image]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png)
+
+<!-- ## 화면 구성	
 
 프로젝트 화면 구성 Site 맵 - 이미지를 클릭해주세요!
 
-{% include gallery caption="" %}
+{% include gallery caption="" %} -->
 
 
 
