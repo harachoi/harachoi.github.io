@@ -25,20 +25,8 @@ layout: archive
 classes: layout--home
 ---
 
-
-
-## On This Page
-
-- 주제 및 기획의도
-- 기능 개요
-- 시스템 구조도
-- 시나리오
-- 개발 환경
-- ERD 설계
-- 화면 설계
-
-
 ## Project Obejctives
+
   - Develop a web app that graphically displays COVID-19 vaccination data along with other useful COVID-19 related statistics.
   - Display vaccinations administered.
   - Display state vaccination distribution.
@@ -57,37 +45,24 @@ CSV data loaded from: AWS S3 Urls & Data Migration Script
 Service: AWS Elastic Beanstalk
 ```
 
+## Design Outline
 
-## 시스템 구조도
-
-
-## 시나리오
-
-1. 회원가입/로그인
-2. 메뉴 선정(선호메뉴/비선호메뉴 선택 가능)
-3. 선택된 메뉴 데이터 룰렛 적재
-4. 룰렛 돌리기(최종 메뉴 선정)
-5. 선정메뉴 + 검색(사용자가 원하는 위치) = 식당 리스트업
-6. 해당 식당 별점 및 리뷰
+<img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/VaxTrax/vaxtrax_flow.png" width="100%" align="center">
 
 
+<!-- ## 기능 개요
 
+- 회원가입, 로그인 기능
+- 게시판 기능
+- 댓글 기능
+- 사용자 블락 및 팔로우 기능
+- 사용자 간의 메세지 보내기 기능 -->
 
-
-## 개발 환경
-
-
-## ERD 설계
-
-**사진 Click!**
-
-
-## 화면 구성                                                                                                                                                                                        
+## 화면 구성                                                                                                                                                                              
 
 프로젝트 화면 구성 Site 맵 - 이미지를 클릭해주세요!
 
 {% include gallery caption="" %}
-
 
 
 ## 소스코드
