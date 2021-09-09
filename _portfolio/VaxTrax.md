@@ -1,14 +1,13 @@
 ---
-title: 오늘 뭐 먹지?
-excerpt: Spring Framework을 기반으로 룰렛을 도입해 재미요소를 더 하고, 식당 검색 및 평점/리뷰 기능을 도입해 식당을 추천해주는 웹 서비스
+title: VaxTrax
+excerpt: See the progress of Covid-19 Vaccination
 header:
-  image: /assets/images/whateat.jpg
-  teaser: /assets/images/whateat.jpg
+  image: /assets/images/Portfoliio/vaxtrax2.jpg
+  teaser: /assets/images/Portfoliio/vaxtrax2.jpg
 sidebar:
   - title: "담당 역할"
     text: "Front-End & Back-End"
-  - title: "기여도"
-    text: "30%, 4인 프로젝트"
+  - title: "4인 팀 프로젝트"
 gallery:
   - url: /assets/images/Portfolio/covid19-1.jpg
     image_path: assets/images/Portfolio/covid19-1.jpg

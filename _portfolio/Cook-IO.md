@@ -3,7 +3,7 @@ title: Cook-IO
 excerpt: People can share their special recipes and share their lives!
 header:
   image: /assets/images/Portfoliio/vaxtrax2.jpg
-  image: /assets/images/Portfoliio/vaxtrax2.jpg
+  teaser: /assets/images/Portfoliio/vaxtrax2.jpg
 sidebar:
   - title: "담당 역할"
     text: "Front-End & Back-End"
