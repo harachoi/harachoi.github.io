@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Tech"
+    url: /tech/
+  - title: "Portfolio"
+    url: /portfolio/
+  # - title: "About"
+  #   url: /about/
