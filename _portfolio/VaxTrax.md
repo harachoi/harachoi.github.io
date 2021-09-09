@@ -2,8 +2,8 @@
 title: VaxTrax
 excerpt: See the progress of Covid-19 Vaccination
 header:
-  image: /assets/images/Portfoliio/vaxtrax2.jpg
-  teaser: /assets/images/Portfoliio/vaxtrax2.jpg
+  image: /assets/images/board.jpg
+  teaser: /assets/images/board.jpg
 sidebar:
   - title: "담당 역할"
     text: "Front-End & Back-End"
