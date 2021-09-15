@@ -36,20 +36,19 @@ Front-end Framework: React Native
 
 <!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png" width="100%" align="center"> -->
 
-[[!image](https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.PNG)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.PNG)
+![image](https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.PNG)
+<!-- ![image](https://user-images.githubusercontent.com/49560745/107177819-150e1000-6a16-11eb-8792-0ede78e71ecb.png) -->
 
 ## Design Details
 
 <!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png" width="100%" align="center"> -->
 
-[[!image](https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.PNG)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.PNG)
-
+![image](https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.PNG)
 <!-- ## 화면 구성	
 
 프로젝트 화면 구성 Site 맵 - 이미지를 클릭해주세요!
 
 {% include gallery caption="" %} -->
-
 
 
 ## Code Details
