@@ -47,7 +47,7 @@ Service: AWS Elastic Beanstalk
 
 ## Design Outline
 
-<img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/VaxTrax/vaxtrax_flow.png" width="100%" align="center">
+<img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/VaxTrax/vaxtrax_flow.PNG" width="100%" align="center">
 
 
 <!-- ## 기능 개요

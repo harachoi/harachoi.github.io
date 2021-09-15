@@ -36,13 +36,13 @@ Front-end Framework: React Native
 
 <!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png" width="100%" align="center"> -->
 
-[[!image]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png)
+[[!image]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.PNG)
 
 ## Design Details
 
 <!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png" width="100%" align="center"> -->
 
-[[!image]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png)
+[[!image]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png)]("https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.PNG)
 
 <!-- ## 화면 구성	
 
