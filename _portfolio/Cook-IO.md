@@ -34,16 +34,12 @@ Front-end Framework: React Native
 
 ## Design Outline
 
-<!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.png" width="100%" align="center"> -->
-
-![image](https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_outline.PNG)
-<!-- ![image](https://user-images.githubusercontent.com/49560745/107177819-150e1000-6a16-11eb-8792-0ede78e71ecb.png) -->
+![cookio-design_outline](https://user-images.githubusercontent.com/29204186/133462537-9cdfcfde-bd43-424c-9481-ab135efeb8c4.PNG)
 
 ## Design Details
 
-<!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.png" width="100%" align="center"> -->
+![cookio-design_details](https://user-images.githubusercontent.com/29204186/133462496-b13ea06b-2677-40a6-aee3-b04bf99279ef.PNG)
 
-![image](https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/CookIO/cookio-design_details.PNG)
 <!-- ## 화면 구성	
 
 프로젝트 화면 구성 Site 맵 - 이미지를 클릭해주세요!

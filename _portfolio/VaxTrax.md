@@ -9,17 +9,17 @@ sidebar:
     text: "Front-End & Back-End"
   - title: "4인 팀 프로젝트"
 gallery:
-  - url: /assets/images/Portfolio/covid19-1.jpg
-    image_path: assets/images/Portfolio/covid19-1.jpg
+  - url: /assets/images/Portfolio/covid19-1(cut).jpg
+    image_path: assets/images/Portfolio/covid19-1(cut).jpg
     alt: "placeholder image 1"
-  - url: /assets/images/Portfolio/covid19-2.jpg
-    image_path: assets/images/Portfolio/covid19-2.jpg
+  - url: /assets/images/Portfolio/covid19-2(cut).jpg
+    image_path: assets/images/Portfolio/covid19-2(cut).jpg
     alt: "placeholder image 2"
-  - url: /assets/images/Portfolio/covid19-3.jpg
-    image_path: assets/images/Portfolio/covid19-3.jpg
+  - url: /assets/images/Portfolio/covid19-3(cut).jpg
+    image_path: assets/images/Portfolio/covid19-3(cut).jpg
     alt: "placeholder image 3"
-  - url: /assets/images/Portfolio/covid19-4.jpg
-    image_path: assets/images/Portfolio/covid19-4.jpg
+  - url: /assets/images/Portfolio/covid19-4(cut).jpg
+    image_path: assets/images/Portfolio/covid19-4(cut).jpg
     alt: "placeholder image 4"
 layout: archive
 classes: layout--home
@@ -47,7 +47,9 @@ Service: AWS Elastic Beanstalk
 
 ## Design Outline
 
-<img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/VaxTrax/vaxtrax_flow.PNG" width="100%" align="center">
+![vaxtrax_flow](https://user-images.githubusercontent.com/29204186/133462137-2df48823-f58f-48c3-ae4f-e40341ecffd5.JPG)
+
+<!-- <img src="https://github.com/harachoi/harachoi.github.io/tree/master/assets/images/VaxTrax/vaxtrax_flow.PNG" width="100%" align="center"> -->
 
 
 <!-- ## 기능 개요
