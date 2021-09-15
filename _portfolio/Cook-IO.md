@@ -52,6 +52,6 @@ Front-end Framework: React Native
 
 
 
-## 소스코드
+## Code Details
 
 ## [Github-Source Code](https://github.com/harachoi/Cook-I-O)

@@ -65,7 +65,6 @@ Service: AWS Elastic Beanstalk
 {% include gallery caption="" %}
 
 
-## 소스코드
-
+## Code Details
 ## [Github-Source Code](https://github.com/harachoi/VaxTrax)
 
